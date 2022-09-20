@@ -1,0 +1,16 @@
+{
+  "name": "orai-munka-2022-09-15",
+  "version": "1.0.0",
+  "description": "Órai Munka 2022.09.15 Csák Patrik",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "orai-munka-2022-09-15"
+  },
+  "author": "ptrk.csak",
+  "license": "ISC"
+}
